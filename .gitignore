@@ -1,1 +1,4 @@
 Downloads/
+env
+.env
+__pycache__
